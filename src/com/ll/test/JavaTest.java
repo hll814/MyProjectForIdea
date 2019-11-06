@@ -4,15 +4,13 @@ package com.ll.test;
  * @author hll
  * @version V1.0
  * @ClassName:JavaTest
- * @Description:×¢áŒÄ£°å
- * @date 2019Äê11ÔÂ5ÈÕ ÏÂÎç17:53
+ * @Description:æ³¨é‡‹æ¨¡æ¿
+ * @date 2019å¹´11æœˆ5æ—¥ ä¸‹åˆ17:53
  */
 public class JavaTest {
     public static void main(String[] args) {
         System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
+        System.out.println("æˆ‘æ˜¯ä¸­æ–‡");
+
     }
 }
